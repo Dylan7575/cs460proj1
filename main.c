@@ -4,7 +4,7 @@
 
 /*
  * main()
- */
+ ffasdfdasfasdfsdafsdfgsdfgfdsgsfdgsdfgfdvvvvvvvvvvvvvvvvvvvvvvvvvvvv*/
 pthread_mutex_t lock;
 int main(int argc, char** argv) {
     int server_socket;                 // descriptor of server socket
